@@ -1,0 +1,8 @@
+# predictions.log — one row per committed expectation.
+# Format: date | commitment (one line, falsifiable) | confidence/scale if useful | HIT/MISS/OPEN | note
+# Rules: append as OPEN BEFORE output. On resolution, change only status and note.
+# Never edit the commitment or scale after the outcome. Never delete a MISS.
+#
+# No public predictions logged yet.
+# The first row will be committed before its outcome is known.
+# Forks: replace this zero state with your own history.

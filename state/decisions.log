@@ -1,0 +1,17 @@
+# decisions.log — the CLOSE record. One entry per closed deep task.
+# Shape: date · decision · why · what changed · next step · revisit condition.
+# Three entries running with an empty "what changed" line = CLOSE has gone decorative (protocols/close.md).
+#
+# No public decisions logged yet.
+# The first entry should record a real closed deep task.
+# Forks: replace this zero state with your own history.
+
+---
+
+## YYYY-MM-DD — <decision title>
+
+**Decision:**
+**Why:**
+**What changed:**
+**Next step:**
+**Revisit condition:**

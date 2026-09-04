@@ -1,0 +1,12 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Personal scratch — never canonical state; the repo is the source of truth
+scratch/
+
+# Forks: optional private state. Public logs are useful only when real.
+state/private/
